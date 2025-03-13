@@ -1,4 +1,4 @@
-# Fake News Detection using Machine Learning
+# fake News Detection using ML
 
 ## Table of Contents
 - [Introduction](#introduction)
